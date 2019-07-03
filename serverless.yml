@@ -1,4 +1,4 @@
-service: notes-app-api
+service: serverless-stack-tutorial-api
 
 # Use the serverless-webpack plugin to transpile ES6
 plugins:
